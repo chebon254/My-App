@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FireBaseDataBaseApp</string>
+    <string name="ga_trackingId" translatable="false">UA-65557218-3</string>
+
 </resources>
